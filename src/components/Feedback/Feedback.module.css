@@ -1,0 +1,13 @@
+.Container {
+  margin-left: 30px;
+  padding-left: 30px;
+}
+
+.Button {
+  font-size: 20px;
+  font-weight: 500;
+  margin-right: 15px;
+  border-radius: 4px;
+  padding: 5px;
+  background-color: rgb(165 165 208);
+}
